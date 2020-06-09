@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarsWeather</string>
+    <string name="home_presentation">Quelle météo sur Mars ?</string>
+    <string name="but_start_label">Voir l\'historique</string>
+    <string name="sol_nb">NB_SOLS : </string>
+    <string name="sol_temperature">Température :</string>
+    <string name="sol_pression">Pression :</string>
+    <string name="sol_name">Sol n°</string>
+    <string name="avg">avg:</string>
+    <string name="min">min:</string>
+    <string name="max">max:</string>
+    <string name="empty"></string>
+</resources>
